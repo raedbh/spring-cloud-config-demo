@@ -1,0 +1,7 @@
+String[] modules = [
+
+        'client',
+        'config-server'
+]
+
+include modules
